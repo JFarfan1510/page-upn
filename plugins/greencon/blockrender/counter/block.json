@@ -1,9 +1,0 @@
-{
-	"apiVersion": 2,
-	"name": "gutencon/counter",
-    "title": "Simple Counter",
-    "description": "For making number counters",
-	"category":"gutencon-modules",
-    "icon": "arrow-up-alt",
-	"textdomain": "gutencon"
-}

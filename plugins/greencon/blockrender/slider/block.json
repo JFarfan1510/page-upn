@@ -1,9 +1,0 @@
-{
-	"apiVersion": 2,
-	"name": "gutencon/slider",
-    "title": "Simple Slider",
-    "description": "For making image sliders",
-	"category":"gutencon-modules",
-    "icon": "images-alt2",
-	"textdomain": "gutencon"
-}

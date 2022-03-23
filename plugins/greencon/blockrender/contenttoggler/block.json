@@ -1,9 +1,0 @@
-{
-	"apiVersion": 2,
-	"name": "gutencon/contenttoggler",
-	"title": "Content Toggler",
-	"category": "gutencon-modules",
-	"description": "For toggle container",
-    "icon": "ellipsis",
-	"textdomain": "gutencon"
-}

@@ -100,7 +100,7 @@ function blank_canvas_dequeue_parent_scripts() {
 		wp_dequeue_script( 'seedlet-primary-navigation-script' );
 		wp_dequeue_style( 'seedlet-style-navigation' );
 	}
-	wp_enqueue_script( "page-js",get_stylesheet_directory_uri()."/assets/js/script.js" )
+	wp_enqueue_script( "page-js",get_stylesheet_directory_uri()."/assets/js/script.js" );
 }
 add_action( 'wp_enqueue_scripts', 'blank_canvas_dequeue_parent_scripts', 11 );
 

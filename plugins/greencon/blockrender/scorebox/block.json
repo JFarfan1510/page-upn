@@ -1,9 +1,0 @@
-{
-	"apiVersion": 1,
-	"name": "gutencon/scorebox",
-    "title": "Scorebox",
-    "description": "For making scorebox with buttons",
-	"category":"gutencon-modules",
-    "icon": "table-col-before",
-	"textdomain": "gutencon"
-}
