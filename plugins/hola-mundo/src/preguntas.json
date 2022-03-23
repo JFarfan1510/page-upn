@@ -1,0 +1,2851 @@
+{
+	"ACG": [
+		{
+			"id": "ACG01",
+			"text": "¿Cuál es el factor que favorece la gran variedad ictiológica del mar peruano?",
+			"position": 1,
+			"choises": [
+				{
+					"id": "ACG010",
+					"text": "La frialdad de sus aguas",
+					"position": 0
+				},
+				{
+					"id": "ACG011",
+					"text": "El talud continental estrecho",
+					"position": 1
+				},
+				{
+					"id": "ACG012",
+					"text": "La poca salinidad del mar",
+					"position": 2
+				},
+				{
+					"id": "ACG013",
+					"text": "El elevado calor de las nubes",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG02",
+			"text": "La Meseta del Collao de gran extensión en el Perú se ubica en el departamento de:",
+			"position": 2,
+			"choises": [
+				{
+					"id": "ACG020",
+					"text": "Puno",
+					"position": 0
+				},
+				{
+					"id": "ACG021",
+					"text": "Apurímac",
+					"position": 1
+				},
+				{
+					"id": "ACG022",
+					"text": "Junín",
+					"position": 2
+				},
+				{
+					"id": "ACG023",
+					"text": "Madre de Dios",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG03",
+			"text": "El principal producto de extracción del centro minero de Yanacocha es:",
+			"position": 3,
+			"choises": [
+				{
+					"id": "ACG030",
+					"text": "Oro",
+					"position": 0
+				},
+				{
+					"id": "ACG031",
+					"text": "Plomo",
+					"position": 1
+				},
+				{
+					"id": "ACG032",
+					"text": "Cobre",
+					"position": 2
+				},
+				{
+					"id": "ACG033",
+					"text": "Hierro",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG04",
+			"text": "La población peruana distribuida en el piso altitudinal que se extiende entre los 2300 y 3500 metros de altitud se concentra principalmente en:",
+			"position": 4,
+			"choises": [
+				{
+					"id": "ACG040",
+					"text": "Los valles interandinos",
+					"position": 0
+				},
+				{
+					"id": "ACG041",
+					"text": "Las mesetas altoandinas",
+					"position": 1
+				},
+				{
+					"id": "ACG042",
+					"text": "La vertiente occidental",
+					"position": 2
+				},
+				{
+					"id": "ACG043",
+					"text": "La cuenca baja",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG05",
+			"text": "¿Qué países europeos se dedicaron a la colonización en el siglo XVI?",
+			"position": 5,
+			"choises": [
+				{
+					"id": "ACG050",
+					"text": "España, Portugal, Holanda, Inglaterra y Francia",
+					"position": 0
+				},
+				{
+					"id": "ACG051",
+					"text": "Francia, Portugal, EE.UU. y Alemania",
+					"position": 1
+				},
+				{
+					"id": "ACG052",
+					"text": "México, Arabia, Portugal y España",
+					"position": 2
+				},
+				{
+					"id": "ACG053",
+					"text": "Inglaterra, Francia, EE. UU. y Brasil",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG06",
+			"text": "El primer poblador del Perú es:",
+			"position": 6,
+			"choises": [
+				{
+					"id": "ACG060",
+					"text": "Pacaicasa",
+					"position": 0
+				},
+				{
+					"id": "ACG061",
+					"text": "Lauricocha ",
+					"position": 1
+				},
+				{
+					"id": "ACG062",
+					"text": "Kotosh",
+					"position": 2
+				},
+				{
+					"id": "ACG063",
+					"text": "Toquepala",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG07",
+			"text": "El primer pintor de las cavernas fue:",
+			"position": 7,
+			"choises": [
+				{
+					"id": "ACG070",
+					"text": "Toquepala",
+					"position": 0
+				},
+				{
+					"id": "ACG071",
+					"text": "Pacaicasa",
+					"position": 1
+				},
+				{
+					"id": "ACG072",
+					"text": "Guitarrero",
+					"position": 2
+				},
+				{
+					"id": "ACG073",
+					"text": "Lauricocha",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG08",
+			"text": "¿Cuál es el primer templo de América?",
+			"position": 8,
+			"choises": [
+				{
+					"id": "ACG080",
+					"text": "Kotosh",
+					"position": 0
+				},
+				{
+					"id": "ACG081",
+					"text": "Toquepala",
+					"position": 1
+				},
+				{
+					"id": "ACG082",
+					"text": "El Sol",
+					"position": 2
+				},
+				{
+					"id": "ACG083",
+					"text": "Ventarrón",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG09",
+			"text": "¿Con qué país Perú tuvo más cantidad de conflictos?",
+			"position": 9,
+			"choises": [
+				{
+					"id": "ACG090",
+					"text": "Ecuador",
+					"position": 0
+				},
+				{
+					"id": "ACG091",
+					"text": "Chile",
+					"position": 1
+				},
+				{
+					"id": "ACG092",
+					"text": "Bolivia",
+					"position": 2
+				},
+				{
+					"id": "ACG093",
+					"text": "Colombia",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG10",
+			"text": "¿Quién fue el último virrey del Perú?",
+			"position": 10,
+			"choises": [
+				{
+					"id": "ACG100",
+					"text": "José de la Serna e Hinojosa",
+					"position": 0
+				},
+				{
+					"id": "ACG101",
+					"text": "Blasco Núñez Vela",
+					"position": 1
+				},
+				{
+					"id": "ACG102",
+					"text": "Joaquín de la Pezuela y Sánchez",
+					"position": 2
+				},
+				{
+					"id": "ACG103",
+					"text": "Francisco de Borja y Aragón",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG11",
+			"text": "ACG11",
+			"position": 11,
+			"choises": [
+				{
+					"id": "ACG110",
+					"text": "Una caza selectiva y planificada",
+					"position": 0
+				},
+				{
+					"id": "ACG111",
+					"text": "El uso de instrumentos desdentados",
+					"position": 1
+				},
+				{
+					"id": "ACG112",
+					"text": "La caza de animales gigantes",
+					"position": 2
+				},
+				{
+					"id": "ACG113",
+					"text": "La caza indiscriminada",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG12",
+			"text": "¿Quién fue la cacica de Acos, colaboradora de Túpac Amaru, condenada a la pena del garrote?",
+			"position": 12,
+			"choises": [
+				{
+					"id": "ACG120",
+					"text": "Tomasa Tito Condemayta",
+					"position": 0
+				},
+				{
+					"id": "ACG121",
+					"text": "María Parado de Bellido",
+					"position": 1
+				},
+				{
+					"id": "ACG122",
+					"text": "Cecilia Túpac Amaru",
+					"position": 2
+				},
+				{
+					"id": "ACG123",
+					"text": "Micaela Bastidas",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG13",
+			"text": "Secuencia correcta de los tres últimos presidentes de la República antes de este último gobierno (2016-2021).",
+			"position": 13,
+			"choises": [
+				{
+					"id": "ACG130",
+					"text": "Alejandro Toledo Manrique - Alán García Pérez - Ollanta Humala Tasso",
+					"position": 0
+				},
+				{
+					"id": "ACG131",
+					"text": "Alejandro Toledo Manrique - Ollanta Humala Tasso – Pedro Pablo Kuczynski",
+					"position": 1
+				},
+				{
+					"id": "ACG132",
+					"text": "Alán García Pérez - Alejandro Toledo Manrique - Ollanta Humala Tasso",
+					"position": 2
+				},
+				{
+					"id": "ACG133",
+					"text": "Alán García Pérez - Alejandro Toledo Manrique – Martín Vizcarra Cornejo",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG14",
+			"text": "La penúltima participación del equipo de fútbol peruano fue:",
+			"position": 14,
+			"choises": [
+				{
+					"id": "ACG140",
+					"text": "España 1982",
+					"position": 0
+				},
+				{
+					"id": "ACG141",
+					"text": "Rusia 2018",
+					"position": 1
+				},
+				{
+					"id": "ACG142",
+					"text": "Argentina 1978",
+					"position": 2
+				},
+				{
+					"id": "ACG143",
+					"text": "México 1970",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "ACG15",
+			"text": "¿Quién fue el presidente de los EE.UU durante la primera década del siglo XXI?",
+			"position": 15,
+			"choises": [
+				{
+					"id": "ACG150",
+					"text": "George W. Bush",
+					"position": 0
+				},
+				{
+					"id": "ACG151",
+					"text": "Barack Obama",
+					"position": 1
+				},
+				{
+					"id": "ACG152",
+					"text": "Donald Trump",
+					"position": 2
+				},
+				{
+					"id": "ACG153",
+					"text": "Boris Johnson",
+					"position": 3
+				}
+			]
+		}
+	],
+	"C": [
+		{
+			"id": "C1",
+			"text": "Un especialista en Nutrición y Dietética de una universidad peruana se presenta a ofrecer una charla sobre: “Exactitud de las tablas de composición de alimentos en la determinación de nutrientes” a las madres de un comedor popular. De acuerdo a la naturaleza de su charla, es muy probable que los fines de la comunicación no se cumplan debido a que el especialista no tuvo en cuenta el siguiente detalle de la situación comunicativa:",
+			"position": 1,
+			"choises": [
+				{
+					"id": "C10",
+					"text": "Nivel de conocimiento de los receptores",
+					"position": 0
+				},
+				{
+					"id": "C11",
+					"text": "Uso eficiente de la lengua",
+					"position": 1
+				},
+				{
+					"id": "C12",
+					"text": "La actitud del hablante",
+					"position": 2
+				},
+				{
+					"id": "C13",
+					"text": "El canal de comunicación",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C2",
+			"text": "¿Qué alternativa presenta un caso de comunicación no verbal?",
+			"position": 2,
+			"choises": [
+				{
+					"id": "C20",
+					"text": "Un guiño de complicidad entre padre e hijo",
+					"position": 0
+				},
+				{
+					"id": "C21",
+					"text": "La letra de una canción",
+					"position": 1
+				},
+				{
+					"id": "C22",
+					"text": "Una solicitud de préstamo a una entidad bancaria",
+					"position": 2
+				},
+				{
+					"id": "C23",
+					"text": "Un oso de peluche en una habitación",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C3",
+			"text": "Marco, un estudiante de segundo ciclo, usa algunas jergas en su exposición de clase. Su profesor y compañeros de clase se asombraron mucho por esas palabras. ¿Qué debería ser Marco para evitar ese asombro?",
+			"position": 3,
+			"choises": [
+				{
+					"id": "C30",
+					"text": "Usar palabras propias de un contexto formal",
+					"position": 0
+				},
+				{
+					"id": "C31",
+					"text": "Utilizar mímicas para reemplazar esas palabras",
+					"position": 1
+				},
+				{
+					"id": "C32",
+					"text": "Decir en voz baja esas palabras informales",
+					"position": 2
+				},
+				{
+					"id": "C33",
+					"text": "Proporcionar el significado de cada una de las jergas",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C4",
+			"text": "Considerando la actitud del hablante, ¿qué tipo de oraciones predomina en un emisor con un deseo de ordenar?",
+			"position": 4,
+			"choises": [
+				{
+					"id": "C40",
+					"text": "Imperativas",
+					"position": 0
+				},
+				{
+					"id": "C41",
+					"text": "Enunciativas",
+					"position": 1
+				},
+				{
+					"id": "C42",
+					"text": "Dubitativas",
+					"position": 2
+				},
+				{
+					"id": "C43",
+					"text": "Interrogativas",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C5",
+			"text": "Complete de manera adecuada la oración con el uso de las letras s,c,z:",
+			"position": 5,
+			"choises": [
+				{
+					"id": "C50",
+					"text": "s-s-z-c",
+					"position": 0
+				},
+				{
+					"id": "C51",
+					"text": "z-c-s-c",
+					"position": 1
+				},
+				{
+					"id": "C52",
+					"text": "s-s-z-s",
+					"position": 2
+				},
+				{
+					"id": "C53",
+					"text": "s-c-s-s",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C6",
+			"text": "Elija la oración que presente correcta acentuación:",
+			"position": 6,
+			"choises": [
+				{
+					"id": "C60",
+					"text": "Yo era muy joven cuando la conocí. Todavía no cumplía los veintidós: ¿La amé? ¿Me amó? Ahora que no está, quisiera buscarla para decirle que fue lo más importante de mi vida.",
+					"position": 0
+				},
+				{
+					"id": "C61",
+					"text": "Yo era muy jóven cuando la conocí. Todavía no cumplia los veintidós: ¿La amé? ¿Me amó? Ahora que no está, quisiera buscarla para decirle que fue lo más importante de mi vida.",
+					"position": 1
+				},
+				{
+					"id": "C62",
+					"text": "Yo era muy joven cuando la conoci. Todavía no cumplía los veintidos: ¿La amé? ¿Me amó? Ahora que no está, quisiera buscarla para decirle que fue lo más importante de mi vida.",
+					"position": 2
+				},
+				{
+					"id": "C63",
+					"text": "Yo era muy joven cuando la conocí. Todavia no cumplía los veintidós: ¿La amé? ¿Me amó? Ahora que no esta, quisiera buscarla para decirle que fue lo mas importante de mi vida.",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C7",
+			"text": "Elija la oración que use correctamente la tilde:",
+			"position": 7,
+			"choises": [
+				{
+					"id": "C70",
+					"text": "Tú debes de estudiar para el examen, además de esforzarte por una buena exposición.",
+					"position": 0
+				},
+				{
+					"id": "C71",
+					"text": "Tu debes de estudiar para el examen, además de esforzarte por una buena exposición.",
+					"position": 1
+				},
+				{
+					"id": "C72",
+					"text": "Tu debes de estudiar para el examen, ademas de esforzarte por una buena exposición.",
+					"position": 2
+				},
+				{
+					"id": "C73",
+					"text": "Tú debes de estudiar para el exámen, además de esforzárte por una buena exposición.",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C8",
+			"text": "¿Cuál oración usa de manera correcta la coma?",
+			"position": 8,
+			"choises": [
+				{
+					"id": "C80",
+					"text": "Haremos nuestras prácticas en la fábrica agroindustrial, ya que fuimos seleccionados.",
+					"position": 0
+				},
+				{
+					"id": "C81",
+					"text": "Javier, el premio de excelencia, viajará a Madrid, en julio.",
+					"position": 1
+				},
+				{
+					"id": "C82",
+					"text": "En la tarde, nosotros tendremos clase, con el profesor Carlos.",
+					"position": 2
+				},
+				{
+					"id": "C83",
+					"text": "El estudiante, expuso con precisión y convicción sus ideas.",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C9",
+			"text": "Homonimia",
+			"position": 9,
+			"choises": [
+				{
+					"id": "C90",
+					"text": "Al riesgo inminente de ser capturado por tener los mismos nombres y apellidos que una persona buscada por la justicia.",
+					"position": 0
+				},
+				{
+					"id": "C91",
+					"text": "Al hecho de llamarse exactamente igual que otra persona.",
+					"position": 1
+				},
+				{
+					"id": "C92",
+					"text": "Al procedimiento realizado por la Policía para identificar a una persona.",
+					"position": 2
+				},
+				{
+					"id": "C93",
+					"text": "Al trabajo de identificación de datos personales realizado por el Poder Judicial.",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C10",
+			"text": "Homonimia",
+			"position": 10,
+			"choises": [
+				{
+					"id": "C100",
+					"text": "El sistema judicial peruano tiene un deficiente sistema de identificación.",
+					"position": 0
+				},
+				{
+					"id": "C101",
+					"text": "La Policía no realiza bien su trabajo al comparar los documentos personales.",
+					"position": 1
+				},
+				{
+					"id": "C102",
+					"text": "Existen algunos nombres que son muy comunes en el registro de identidad.",
+					"position": 2
+				},
+				{
+					"id": "C103",
+					"text": "La corrupción es la principal causa de detenciones injustas por homonimia.",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C11",
+			"text": "Cielo e infierno terrenales",
+			"position": 11,
+			"choises": [
+				{
+					"id": "C110",
+					"text": "Paraíso e infierno están presentes en la vida de todo ser humano; depende de uno si hace de su vida lo primero o lo segundo.",
+					"position": 0
+				},
+				{
+					"id": "C111",
+					"text": "El paraíso y el infierno no pueden vivir en una misma persona; es importante saber conciliar entre ambos estados.",
+					"position": 1
+				},
+				{
+					"id": "C112",
+					"text": "El hombre solo puede vivir tranquilo si hace de su vida un paraíso.",
+					"position": 2
+				},
+				{
+					"id": "C113",
+					"text": "En la vida de una persona, el infierno son los demás. ",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C12",
+			"text": "Cielo e infierno terrenales",
+			"position": 12,
+			"choises": [
+				{
+					"id": "C120",
+					"text": "Una vida dominada por la ira y los problemas. / Una vida regida por el buen juicio y la tranquilidad.",
+					"position": 0
+				},
+				{
+					"id": "C121",
+					"text": "Una sensación de paz. / Una situación de intranquilidad",
+					"position": 1
+				},
+				{
+					"id": "C122",
+					"text": "Algo que se encuentra fuera de nuestro alcance. / Una situación placentera",
+					"position": 2
+				},
+				{
+					"id": "C123",
+					"text": "Hacen alusión a lo mismo: una vida llena de conflictos, producto de la modernidad y consumismo.",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C13",
+			"text": "La situación de los refugiados",
+			"position": 13,
+			"choises": [
+				{
+					"id": "C130",
+					"text": "A las personas que huyen de su país de origen motivados por conflictos armados, dictaduras, persecuciones políticas o falta de oportunidades.",
+					"position": 0
+				},
+				{
+					"id": "C131",
+					"text": "A las personas que se han visto obligadas a abandonar su país, generalmente por razones políticas.",
+					"position": 1
+				},
+				{
+					"id": "C132",
+					"text": "A las personas que, tras pedir asilo y sin tener estatuto de refugiado, vive a expensas del Estado que lo acoge.",
+					"position": 2
+				},
+				{
+					"id": "C133",
+					"text": "A las personas que han sido expulsadas de su país de origen por representar un problema para la seguridad o intereses del Estado.",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C14",
+			"text": "La situación de los refugiados",
+			"position": 14,
+			"choises": [
+				{
+					"id": "C140",
+					"text": "La xenofobia y la escasez de recursos del país al que inmigran",
+					"position": 0
+				},
+				{
+					"id": "C141",
+					"text": "La falta de trabajo y la escasez de vivienda",
+					"position": 1
+				},
+				{
+					"id": "C142",
+					"text": "La xenofobia y la falta de movilidad",
+					"position": 2
+				},
+				{
+					"id": "C143",
+					"text": "La falta de trabajo y la escasez de vivienda",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "C15",
+			"text": "Elija la alternativa que presente una oración.",
+			"position": 15,
+			"choises": [
+				{
+					"id": "C150",
+					"text": "El proyecto de reciclaje ganó el concurso de innovación.",
+					"position": 0
+				},
+				{
+					"id": "C151",
+					"text": "El entrenador, cuyo currículo es bastante atractivo por los equipos que dirigió.",
+					"position": 1
+				},
+				{
+					"id": "C152",
+					"text": "Los escritores que fueron invitados a la última feria de libro.",
+					"position": 2
+				},
+				{
+					"id": "C153",
+					"text": "Llegar, dormir, despertar y trabajar.",
+					"position": 3
+				}
+			]
+		}
+	],
+	"CSC": [
+		{
+			"id": "CSC1",
+			"text": "La Constitución determina que el trabajo es:",
+			"position": 1,
+			"choises": [
+				{
+					"id": "CSC10",
+					"text": "Deber y derecho",
+					"position": 0
+				},
+				{
+					"id": "CSC11",
+					"text": "Requisito para acceder a beneficios sociales",
+					"position": 1
+				},
+				{
+					"id": "CSC12",
+					"text": "Es un deber una vez culminado la educación secundaria",
+					"position": 2
+				},
+				{
+					"id": "CSC13",
+					"text": "Una obligación moral y antisocial",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC2",
+			"text": "Uno de los principales motivos por los que se puede discriminar a una persona con vih/sida es porque hay:",
+			"position": 2,
+			"choises": [
+				{
+					"id": "CSC20",
+					"text": "falta de información ",
+					"position": 0
+				},
+				{
+					"id": "CSC21",
+					"text": "tolerancia",
+					"position": 1
+				},
+				{
+					"id": "CSC22",
+					"text": "comprensión del problema",
+					"position": 2
+				},
+				{
+					"id": "CSC23",
+					"text": "identificación de la sociedad",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC3",
+			"text": "Los conflictos sociales y políticos se dan cuando:",
+			"position": 3,
+			"choises": [
+				{
+					"id": "CSC30",
+					"text": "el gobierno incumple con su responsabilidad de crear las condiciones adecuadas",
+					"position": 0
+				},
+				{
+					"id": "CSC31",
+					"text": "el gobierno crea las condiciones adecuadas",
+					"position": 1
+				},
+				{
+					"id": "CSC32",
+					"text": "las familias presentan rezagos debido a problemas económicos",
+					"position": 2
+				},
+				{
+					"id": "CSC33",
+					"text": "las familias evitan educar a sus miembros en un clima de confianza",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC4",
+			"text": "El conflicto te:",
+			"position": 4,
+			"choises": [
+				{
+					"id": "CSC40",
+					"text": "impulsa a buscar alternativas",
+					"position": 0
+				},
+				{
+					"id": "CSC41",
+					"text": "hace que dejes todo",
+					"position": 1
+				},
+				{
+					"id": "CSC42",
+					"text": "motiva a pelear ",
+					"position": 2
+				},
+				{
+					"id": "CSC43",
+					"text": "impide crecer",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC5",
+			"text": "El año 2021 tiene por nombre:",
+			"position": 5,
+			"choises": [
+				{
+					"id": "CSC50",
+					"text": "Año del Bicentenario del Perú: 200 años de Independencia",
+					"position": 0
+				},
+				{
+					"id": "CSC51",
+					"text": "Año de la Integración Nacional y el Reconocimiento de Nuestra Diversidad",
+					"position": 1
+				},
+				{
+					"id": "CSC52",
+					"text": "Año de la Inclusión social y Reconocimiento de Nuestros héroes Chavin de Huantar",
+					"position": 2
+				},
+				{
+					"id": "CSC53",
+					"text": "Año de la lucha contra el narcotráfico y la minería informal",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC6",
+			"text": "¿Qué implica estar en la adolescencia?",
+			"position": 6,
+			"choises": [
+				{
+					"id": "CSC60",
+					"text": "tomar decisiones que marcaran el rumbo de mi vida",
+					"position": 0
+				},
+				{
+					"id": "CSC61",
+					"text": "ir a fiestas y divertirme",
+					"position": 1
+				},
+				{
+					"id": "CSC62",
+					"text": "entrar a trabajar para comprar mis cosas",
+					"position": 2
+				},
+				{
+					"id": "CSC63",
+					"text": "irme solo al colegio",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC7",
+			"text": "Cada hombre piensa de una forma distinta, ya no hay verdad objetiva, cada persona tiene su verdad. Esta premisa hace referencia al: ",
+			"position": 7,
+			"choises": [
+				{
+					"id": "CSC70",
+					"text": "Subjetivismo ",
+					"position": 0
+				},
+				{
+					"id": "CSC71",
+					"text": "Racionalismo ",
+					"position": 1
+				},
+				{
+					"id": "CSC72",
+					"text": "Objetivismo",
+					"position": 2
+				},
+				{
+					"id": "CSC73",
+					"text": "Empirismo",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC8",
+			"text": "¿Qué significa el VRAE?",
+			"position": 8,
+			"choises": [
+				{
+					"id": "CSC80",
+					"text": "Valle de los Ríos Apurímac y Ene",
+					"position": 0
+				},
+				{
+					"id": "CSC81",
+					"text": "Victoria Regional de Amnistía y Educación",
+					"position": 1
+				},
+				{
+					"id": "CSC82",
+					"text": "Venceremos la Regionalización Ambiental y Educativa",
+					"position": 2
+				},
+				{
+					"id": "CSC83",
+					"text": "Velocidad Rapidez Aceleración y Espacio",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC9",
+			"text": "Imagina que este año habrá un concurso para dar reconocimiento a una mujer que esté comprometida con el desarrollo de la sociedad peruana actual. ",
+			"position": 9,
+			"choises": [
+				{
+					"id": "CSC90",
+					"text": "A una mujer que se esfuerza por ser mejor persona y mejorar su comunidad ",
+					"position": 0
+				},
+				{
+					"id": "CSC91",
+					"text": "A una mujer empresaria que sabe hacer negocios y gana mucha plata",
+					"position": 1
+				},
+				{
+					"id": "CSC92",
+					"text": "A una mujer del gobierno que tiene poder y viaja por todo el país",
+					"position": 2
+				},
+				{
+					"id": "CSC93",
+					"text": "A una mujer inteligente que puede lograr todos sus deseos",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC10",
+			"text": "La gente de un pueblo creyó que una persona había robado. La atraparon y golpearon antes de que llegara la policía.",
+			"position": 10,
+			"choises": [
+				{
+					"id": "CSC100",
+					"text": "Porque el Estado es el único encargado de administrar la justicia",
+					"position": 0
+				},
+				{
+					"id": "CSC101",
+					"text": "Porque el robo no es una falta tan grave como para golpear a alguien",
+					"position": 1
+				},
+				{
+					"id": "CSC102",
+					"text": "Porque el castigo no fue suficientemente severo",
+					"position": 2
+				},
+				{
+					"id": "CSC103",
+					"text": "Porque solo la policía tiene derecho a golpear a esta persona por lo que hizo",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC11",
+			"text": "Cuando elegimos a nuestros gobernantes constitucionalmente, estamos ejerciendo:",
+			"position": 11,
+			"choises": [
+				{
+					"id": "CSC110",
+					"text": "La Democracia",
+					"position": 0
+				},
+				{
+					"id": "CSC111",
+					"text": "El Despotismo",
+					"position": 1
+				},
+				{
+					"id": "CSC112",
+					"text": "La Dictadura",
+					"position": 2
+				},
+				{
+					"id": "CSC113",
+					"text": "La Demagogia",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC12",
+			"text": "Es correcta la actitud de un estudiante que considera que debe prepararse no solo para el examen, sino también para la vida. Por lo tanto, se evidencia una actitud: ",
+			"position": 12,
+			"choises": [
+				{
+					"id": "CSC120",
+					"text": "Moral ",
+					"position": 0
+				},
+				{
+					"id": "CSC121",
+					"text": "Religiosa",
+					"position": 1
+				},
+				{
+					"id": "CSC122",
+					"text": "Estética",
+					"position": 2
+				},
+				{
+					"id": "CSC123",
+					"text": "Científica",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC13",
+			"text": "Se denomina _________________a la exigencia de realizar aquello que se considera bueno en la consecución del bien común.",
+			"position": 13,
+			"choises": [
+				{
+					"id": "CSC130",
+					"text": "Deber",
+					"position": 0
+				},
+				{
+					"id": "CSC131",
+					"text": "Libertad",
+					"position": 1
+				},
+				{
+					"id": "CSC132",
+					"text": "Conciencia ",
+					"position": 2
+				},
+				{
+					"id": "CSC133",
+					"text": "Norma",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC14",
+			"text": "Las personas que no cambian lo que piensan, lo que dicen o lo que hacen. Siempre tienden a cumplir sus deberes. Tienen el valor de hacer lo correcto aunque sea duro y costoso; por tanto se les considera como:",
+			"position": 14,
+			"choises": [
+				{
+					"id": "CSC140",
+					"text": "Íntegras",
+					"position": 0
+				},
+				{
+					"id": "CSC141",
+					"text": "Leales",
+					"position": 1
+				},
+				{
+					"id": "CSC142",
+					"text": "Honestas",
+					"position": 2
+				},
+				{
+					"id": "CSC143",
+					"text": "Confiadas",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "CSC15",
+			"text": "Si en el salón de clases el profesor designa las tareas a todos los alumnos por igual sin ningún tipo de privilegio, ¿qué valor ético se cumple?",
+			"position": 15,
+			"choises": [
+				{
+					"id": "CSC150",
+					"text": "Justicia",
+					"position": 0
+				},
+				{
+					"id": "CSC151",
+					"text": "Amor",
+					"position": 1
+				},
+				{
+					"id": "CSC152",
+					"text": "Bondad",
+					"position": 2
+				},
+				{
+					"id": "CSC153",
+					"text": "Libertad",
+					"position": 3
+				}
+			]
+		}
+	],
+	"HV": [
+		{
+			"id": "HV1",
+			"text": "La ebriedad es un estado fisiológico inducido por el consumo excesivo del alcohol. Científicamente está comprobado que beber, frecuentemente, esta sustancia química ocasiona daños severos en el organismo de la persona. La palabra resaltada puede ser reemplazar por:",
+			"position": 1,
+			"choises": [
+				{
+					"id": "HV10",
+					"text": "embriaguez",
+					"position": 0
+				},
+				{
+					"id": "HV11",
+					"text": "sobriedad",
+					"position": 1
+				},
+				{
+					"id": "HV12",
+					"text": "moderación",
+					"position": 2
+				},
+				{
+					"id": "HV13",
+					"text": "abstinencia",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV2",
+			"text": "A la fecha, la Superintendencia Nacional de Educación Superior Universitaria (SUNEDU) ha denegado el licenciamiento a 23 universidades y una escuela de posgrado en todo el país. La palabra DENEGADO se puede reemplazar por:",
+			"position": 2,
+			"choises": [
+				{
+					"id": "HV20",
+					"text": "desestimado",
+					"position": 0
+				},
+				{
+					"id": "HV21",
+					"text": "aprobado",
+					"position": 1
+				},
+				{
+					"id": "HV22",
+					"text": "aceptado",
+					"position": 2
+				},
+				{
+					"id": "HV23",
+					"text": "reconocido",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV3",
+			"text": "Lee el siguiente fragmento del cuento El Caballero Carmelo y responde:",
+			"position": 3,
+			"choises": [
+				{
+					"id": "HV30",
+					"text": "reclinó - murió",
+					"position": 0
+				},
+				{
+					"id": "HV31",
+					"text": "encorvó - sobrevivió",
+					"position": 1
+				},
+				{
+					"id": "HV32",
+					"text": "recostó - subsistió",
+					"position": 2
+				},
+				{
+					"id": "HV33",
+					"text": "apoyó - languideció",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV4",
+			"text": "La discriminación racial es un problema social que afecta a la gran mayoría de personas. Algunos especialistas sobre el tema proponen mitigar a los movimientos extremistas y racistas, basados en ideologías que solo promueven la superioridad racial y la desigualdad. La palabra MITIGAR se puede reemplazar por:",
+			"position": 4,
+			"choises": [
+				{
+					"id": "HV40",
+					"text": "aplacar",
+					"position": 0
+				},
+				{
+					"id": "HV41",
+					"text": "incitar",
+					"position": 1
+				},
+				{
+					"id": "HV42",
+					"text": "provocar",
+					"position": 2
+				},
+				{
+					"id": "HV43",
+					"text": "azuzar",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV5",
+			"text": "Nuestro país necesita de personas altruistas como tú, que se preocupen por el bien de los demás sin esperar nada a cambio. La palabra ALTRUISTA se emplea en el sentido de:",
+			"position": 5,
+			"choises": [
+				{
+					"id": "HV50",
+					"text": "dadivosas",
+					"position": 0
+				},
+				{
+					"id": "HV51",
+					"text": "egoístas",
+					"position": 1
+				},
+				{
+					"id": "HV52",
+					"text": "egocéntricas ",
+					"position": 2
+				},
+				{
+					"id": "HV53",
+					"text": "interesadas",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV6",
+			"text": "El comercio electrónico era una actividad poco promocionada en el Perú; a partir de la emergencia sanitaria, las tiendas por departamento y otros negocios han incursionado en esta forma de ventas. Hoy en día, es un mercado en expansión.",
+			"position": 6,
+			"choises": [
+				{
+					"id": "HV60",
+					"text": "desarrollo",
+					"position": 0
+				},
+				{
+					"id": "HV61",
+					"text": "decrecimiento",
+					"position": 1
+				},
+				{
+					"id": "HV62",
+					"text": "inicio",
+					"position": 2
+				},
+				{
+					"id": "HV63",
+					"text": "potencia",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV7",
+			"text": "Algunos ciudadanos venezolanos ingresaron al Perú portando cédulas de identidad falsas. En ese sentido, los que fueron detenidos por este delito han sido deportados a su país natal. ¿Qué término señala el significado opuesto de la palabra DEPORTADOS?",
+			"position": 7,
+			"choises": [
+				{
+					"id": "HV70",
+					"text": "albergados ",
+					"position": 0
+				},
+				{
+					"id": "HV71",
+					"text": "desterrados",
+					"position": 1
+				},
+				{
+					"id": "HV72",
+					"text": "exiliados",
+					"position": 2
+				},
+				{
+					"id": "HV73",
+					"text": "expulsados",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV8",
+			"text": "Harpagón es el personaje principal de una de las comedias más representativas del escritor francés Moliere. Él es un viejo avaro, egoísta e interesado a quien no le interesa compartir lo que posee, ni con sus hijos. ¿Qué término expresa el significado opuesto de la palabra resaltada?",
+			"position": 8,
+			"choises": [
+				{
+					"id": "HV80",
+					"text": "desprendido ",
+					"position": 0
+				},
+				{
+					"id": "HV81",
+					"text": "tacaño",
+					"position": 1
+				},
+				{
+					"id": "HV82",
+					"text": "mezquino",
+					"position": 2
+				},
+				{
+					"id": "HV83",
+					"text": "miserable",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV9",
+			"text": "Hace unos días, el titular de la ONU afirmó que los fondos públicos no son suficientes para lograr los objetivos de la Agenda 2030 y que se necesita la implicación del sector privado. Los términos AFIRMÓ e IMPLICACIÓN son antónimos de las palabras:",
+			"position": 9,
+			"choises": [
+				{
+					"id": "HV90",
+					"text": "desmintió – discreción ",
+					"position": 0
+				},
+				{
+					"id": "HV91",
+					"text": "confirmó – participación",
+					"position": 1
+				},
+				{
+					"id": "HV92",
+					"text": "ratificó – intervención ",
+					"position": 2
+				},
+				{
+					"id": "HV93",
+					"text": "declaró – complicidad",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV10",
+			"text": "El público menospreció el atuendo que traía el joven actor para el estreno de la obra teatral No soy tu amigo. ¿Cuál es el antónimo de la palabra MENOSPRECIÓ?",
+			"position": 10,
+			"choises": [
+				{
+					"id": "HV100",
+					"text": "aplaudió",
+					"position": 0
+				},
+				{
+					"id": "HV101",
+					"text": "alabar ",
+					"position": 1
+				},
+				{
+					"id": "HV102",
+					"text": "ensalzar",
+					"position": 2
+				},
+				{
+					"id": "HV103",
+					"text": "exaltar",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV11",
+			"text": "La desdichada joven decidió viajar a Londres para emprender un nuevo horizonte que le permita vivir en armonía consigo misma y con los demás. Los términos DESDICHADA y EMPRENDER son antónimos de las palabras:",
+			"position": 11,
+			"choises": [
+				{
+					"id": "HV110",
+					"text": "afortunada - abandonar",
+					"position": 0
+				},
+				{
+					"id": "HV111",
+					"text": "desventurada - empezar",
+					"position": 1
+				},
+				{
+					"id": "HV112",
+					"text": "desafortunada - iniciar",
+					"position": 2
+				},
+				{
+					"id": "HV113",
+					"text": "desgraciada – acometer",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV12",
+			"text": "Una familia cajamarquina pudiente decidió invertir su dinero en un negocio propio, comprar un carro del año y donar un terreno para la construcción de un albergue. ______________, viajar por todo el mundo en las vacaciones. Completa el espacio en blanco con el conector lógico más apropiado.",
+			"position": 12,
+			"choises": [
+				{
+					"id": "HV120",
+					"text": "Además ",
+					"position": 0
+				},
+				{
+					"id": "HV121",
+					"text": "Debido a",
+					"position": 1
+				},
+				{
+					"id": "HV122",
+					"text": "No obstante",
+					"position": 2
+				},
+				{
+					"id": "HV123",
+					"text": "En resumen",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV13",
+			"text": "Juan Pablo es un joven trabajador que se dedica a la construcción de casas prefabricadas. El día de ayer tuvo un accidente en su centro de labores, donde se fracturó el brazo derecho. _____________________, hoy se encuentra postrado en la cama de un hospital sin saber qué hacer. Completa el espacio en blanco con el conector lógico más apropiado.",
+			"position": 13,
+			"choises": [
+				{
+					"id": "HV130",
+					"text": "Debido a ello",
+					"position": 0
+				},
+				{
+					"id": "HV131",
+					"text": "Tampoco",
+					"position": 1
+				},
+				{
+					"id": "HV132",
+					"text": "Sin embargo",
+					"position": 2
+				},
+				{
+					"id": "HV133",
+					"text": "Además",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV14",
+			"text": "La impunidad ha producido el aumento de la delincuencia organizada en nuestro país. ________________________, cada vez más personas se sienten inseguras de salir a cualquier hora del día a la calle. Completa el espacio en blanco con el conector lógico más apropiado.",
+			"position": 14,
+			"choises": [
+				{
+					"id": "HV140",
+					"text": "Debido a esto",
+					"position": 0
+				},
+				{
+					"id": "HV141",
+					"text": "Por un lado",
+					"position": 1
+				},
+				{
+					"id": "HV142",
+					"text": "Asimismo",
+					"position": 2
+				},
+				{
+					"id": "HV143",
+					"text": "Porque",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "HV15",
+			"text": "El texto argumentativo presentado aborda muy bien el tema planteado; ___________________, presenta muchos errores ortográficos y de acentuación. Completa el espacio en blanco con el conector lógico más apropiado.",
+			"position": 15,
+			"choises": [
+				{
+					"id": "HV150",
+					"text": "no obstante",
+					"position": 0
+				},
+				{
+					"id": "HV151",
+					"text": "por lo tanto",
+					"position": 1
+				},
+				{
+					"id": "HV152",
+					"text": "también",
+					"position": 2
+				},
+				{
+					"id": "HV153",
+					"text": "ya que",
+					"position": 3
+				}
+			]
+		}
+	],
+	"LP": [
+		{
+			"id": "LP1",
+			"text": "Aceptarse tal como uno es, ya sea con fortalezas y defectos es un rasgo de…",
+			"position": 1,
+			"choises": [
+				{
+					"id": "LP10",
+					"text": "Autoestima sana",
+					"position": 0
+				},
+				{
+					"id": "LP11",
+					"text": "Estima tolerable",
+					"position": 1
+				},
+				{
+					"id": "LP12",
+					"text": "Autoestima negativa",
+					"position": 2
+				},
+				{
+					"id": "LP13",
+					"text": "Autoestima",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP2",
+			"text": "Es conocer profundamente nuestras emociones, nuestras limitaciones y sobre todo reconocer el contexto de nuestros problemas: ",
+			"position": 2,
+			"choises": [
+				{
+					"id": "LP20",
+					"text": "Autoconocimiento",
+					"position": 0
+				},
+				{
+					"id": "LP21",
+					"text": "Competencias",
+					"position": 1
+				},
+				{
+					"id": "LP22",
+					"text": "Autoestima",
+					"position": 2
+				},
+				{
+					"id": "LP23",
+					"text": "Autocomprensión",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP3",
+			"text": "Es característica de una persona asertiva.",
+			"position": 3,
+			"choises": [
+				{
+					"id": "LP30",
+					"text": "Juzga de manera respetable y responsable",
+					"position": 0
+				},
+				{
+					"id": "LP31",
+					"text": "Oculta quién es para protegerse",
+					"position": 1
+				},
+				{
+					"id": "LP32",
+					"text": "Su comunicación es selectiva",
+					"position": 2
+				},
+				{
+					"id": "LP33",
+					"text": "Si no consigue lo que se propone, lo deja de lado",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP4",
+			"text": "Una de las alternativas no es cualidad de un líder.",
+			"position": 4,
+			"choises": [
+				{
+					"id": "LP40",
+					"text": "Tener un pensamiento",
+					"position": 0
+				},
+				{
+					"id": "LP41",
+					"text": "Ser honesto",
+					"position": 1
+				},
+				{
+					"id": "LP42",
+					"text": "Saber delegar",
+					"position": 2
+				},
+				{
+					"id": "LP43",
+					"text": "Incentivar una buena comunicación",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP5",
+			"text": "Proceso por el cual se modifican y adquieren habilidades, destrezas, conocimientos, conductas y valores.",
+			"position": 5,
+			"choises": [
+				{
+					"id": "LP50",
+					"text": "Aprendizaje",
+					"position": 0
+				},
+				{
+					"id": "LP51",
+					"text": "Conocimiento",
+					"position": 1
+				},
+				{
+					"id": "LP52",
+					"text": "Inteligencia",
+					"position": 2
+				},
+				{
+					"id": "LP53",
+					"text": "Razonamiento ",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP6",
+			"text": "Marque la alternativa que señale las emociones básicas positivas del ser humano.",
+			"position": 6,
+			"choises": [
+				{
+					"id": "LP60",
+					"text": "Interés y alegría",
+					"position": 0
+				},
+				{
+					"id": "LP61",
+					"text": "Temor y tristeza",
+					"position": 1
+				},
+				{
+					"id": "LP62",
+					"text": "Gozo y ansiedad",
+					"position": 2
+				},
+				{
+					"id": "LP63",
+					"text": "Entusiasmo y ansiedad",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP7",
+			"text": "Señale cuál es la función de las emociones.",
+			"position": 7,
+			"choises": [
+				{
+					"id": "LP70",
+					"text": "Facilita la adaptación del individuo a los ambientes físicos y sociales cambiantes",
+					"position": 0
+				},
+				{
+					"id": "LP71",
+					"text": "Evita que nos dañen",
+					"position": 1
+				},
+				{
+					"id": "LP72",
+					"text": "Ayuda a afrontar situaciones negativas",
+					"position": 2
+				},
+				{
+					"id": "LP73",
+					"text": "Facilita la adaptación a circunstancias de ataque",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP8",
+			"text": "La motivación y la emoción se generan en…",
+			"position": 8,
+			"choises": [
+				{
+					"id": "LP80",
+					"text": "El cerebro",
+					"position": 0
+				},
+				{
+					"id": "LP81",
+					"text": "Uno de los órganos según sea el caso",
+					"position": 1
+				},
+				{
+					"id": "LP82",
+					"text": "En el hígado, si es la emoción y en el corazón, si es la motivación",
+					"position": 2
+				},
+				{
+					"id": "LP83",
+					"text": "No se conoce hasta este momento",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP9",
+			"text": "Samir pasa por un callejón oscuro que le provoca sudoración, aumento cardiaco, palidez. ¿Qué le genera estas manifestaciones?",
+			"position": 9,
+			"choises": [
+				{
+					"id": "LP90",
+					"text": "Emoción",
+					"position": 0
+				},
+				{
+					"id": "LP91",
+					"text": "Sentimiento",
+					"position": 1
+				},
+				{
+					"id": "LP92",
+					"text": "Reacción",
+					"position": 2
+				},
+				{
+					"id": "LP93",
+					"text": "Temor ",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP10",
+			"text": "Es uno de los factores que condiciona de manera fundamental el rendimiento de los alumnos.",
+			"position": 10,
+			"choises": [
+				{
+					"id": "LP100",
+					"text": "Motivación",
+					"position": 0
+				},
+				{
+					"id": "LP101",
+					"text": "Emoción",
+					"position": 1
+				},
+				{
+					"id": "LP102",
+					"text": "Obligación",
+					"position": 2
+				},
+				{
+					"id": "LP103",
+					"text": "Satisfacción",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP11",
+			"text": "“Cuando vivimos una emoción negativa, nuestra atención se centra en los pensamientos que la mantienen activa. Si continuamente le damos vueltas a esos pensamientos, fortalecemos las emociones. Sin embargo, si pensamos menos en el suceso que hizo aflorar la emoción negativa, esta disminuye”. Esta aseveración nos permite afirmar que:",
+			"position": 11,
+			"choises": [
+				{
+					"id": "LP110",
+					"text": "La emoción y el pensamiento están estrechamente ligados",
+					"position": 0
+				},
+				{
+					"id": "LP111",
+					"text": "El pensamiento mantiene activa la emoción negativa específicamente",
+					"position": 1
+				},
+				{
+					"id": "LP112",
+					"text": "Los pensamientos se fortalecen gracias a las emociones negativas",
+					"position": 2
+				},
+				{
+					"id": "LP113",
+					"text": "La emoción y el pensamiento no se relacionan necesariamente",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP12",
+			"text": "Las emociones influyen en…",
+			"position": 12,
+			"choises": [
+				{
+					"id": "LP120",
+					"text": "Pensamiento y conducta",
+					"position": 0
+				},
+				{
+					"id": "LP121",
+					"text": "Conducta y sentimiento",
+					"position": 1
+				},
+				{
+					"id": "LP122",
+					"text": "Sentimiento y depresión",
+					"position": 2
+				},
+				{
+					"id": "LP123",
+					"text": "Depresión y tristeza",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP13",
+			"text": "Cuando nos enfocamos en resolver nuestros problemas actuando de manera positiva estamos aplicando:",
+			"position": 13,
+			"choises": [
+				{
+					"id": "LP130",
+					"text": "Inteligencia Emocional ",
+					"position": 0
+				},
+				{
+					"id": "LP131",
+					"text": "Liderazgo ",
+					"position": 1
+				},
+				{
+					"id": "LP132",
+					"text": "Asertividad ",
+					"position": 2
+				},
+				{
+					"id": "LP133",
+					"text": "Gestión de Competencias",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP14",
+			"text": "Es aquella emoción que te paraliza, te permite huir o prepararte para afrontar la situación",
+			"position": 14,
+			"choises": [
+				{
+					"id": "LP140",
+					"text": "Miedo",
+					"position": 0
+				},
+				{
+					"id": "LP141",
+					"text": "Asombro",
+					"position": 1
+				},
+				{
+					"id": "LP142",
+					"text": "Tristeza",
+					"position": 2
+				},
+				{
+					"id": "LP143",
+					"text": "Rabia",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "LP15",
+			"text": "Controlar nuestras emociones nos sirve para:",
+			"position": 15,
+			"choises": [
+				{
+					"id": "LP150",
+					"text": "Tomar buenas decisiones",
+					"position": 0
+				},
+				{
+					"id": "LP151",
+					"text": "Superar fobias",
+					"position": 1
+				},
+				{
+					"id": "LP152",
+					"text": "Superar enfermedades físicas",
+					"position": 2
+				},
+				{
+					"id": "LP153",
+					"text": "Tolerar a todo aquel que quiera sobrepasarse con nosotros",
+					"position": 3
+				}
+			]
+		}
+	],
+	"RM": [
+		{
+			"id": "RM01",
+			"text": "¿Cuántos cuadraditos habrá en la figura 6?",
+			"position": 1,
+			"choises": [
+				{
+					"id": "RM010",
+					"text": "16",
+					"position": 0
+				},
+				{
+					"id": "RM011",
+					"text": "14",
+					"position": 1
+				},
+				{
+					"id": "RM012",
+					"text": "18",
+					"position": 2
+				},
+				{
+					"id": "RM013",
+					"text": "12",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM02",
+			"text": "Indicar la figura que sigue.",
+			"position": 2,
+			"choises": [
+				{
+					"id": "RM020",
+					"text": "",
+					"position": 0
+				},
+				{
+					"id": "RM021",
+					"text": "",
+					"position": 1
+				},
+				{
+					"id": "RM022",
+					"text": "",
+					"position": 2
+				},
+				{
+					"id": "RM023",
+					"text": "",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM03",
+			"text": "Indicar la figura que sigue la secuencia.",
+			"position": 3,
+			"choises": [
+				{
+					"id": "RM030",
+					"text": "",
+					"position": 0
+				},
+				{
+					"id": "RM031",
+					"text": "",
+					"position": 1
+				},
+				{
+					"id": "RM032",
+					"text": "",
+					"position": 2
+				},
+				{
+					"id": "RM033",
+					"text": "",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM04",
+			"text": "Indicar la figura que sigue la secuencia.",
+			"position": 4,
+			"choises": [
+				{
+					"id": "RM040",
+					"text": "",
+					"position": 0
+				},
+				{
+					"id": "RM041",
+					"text": "",
+					"position": 1
+				},
+				{
+					"id": "RM042",
+					"text": "",
+					"position": 2
+				},
+				{
+					"id": "RM043",
+					"text": "",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM05",
+			"text": "Sabiendo que:",
+			"position": 5,
+			"choises": [
+				{
+					"id": "RM050",
+					"text": "I , II y III",
+					"position": 0
+				},
+				{
+					"id": "RM051",
+					"text": "I y III",
+					"position": 1
+				},
+				{
+					"id": "RM052",
+					"text": "II y III",
+					"position": 2
+				},
+				{
+					"id": "RM053",
+					"text": "Sólo I",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM06",
+			"text": "El equipo deportivo de María participará en el campeonato de su localidad por lo que va al emporio de Gamarra y compra 12 polos deportivos por los que pagó S/ 96. ¿Cuánto pagará María si comprara 18 polos deportivos?",
+			"position": 6,
+			"choises": [
+				{
+					"id": "RM060",
+					"text": "144",
+					"position": 0
+				},
+				{
+					"id": "RM061",
+					"text": "162",
+					"position": 1
+				},
+				{
+					"id": "RM062",
+					"text": "180",
+					"position": 2
+				},
+				{
+					"id": "RM063",
+					"text": "126",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM07",
+			"text": "Para culminar una obra son necesarios 4 trabajadores que demoran 12 días para terminarla. ¿cuántos días demorarán en hacer la obra si fueran 6 trabajadores?",
+			"position": 7,
+			"choises": [
+				{
+					"id": "RM070",
+					"text": "8",
+					"position": 0
+				},
+				{
+					"id": "RM071",
+					"text": "3",
+					"position": 1
+				},
+				{
+					"id": "RM072",
+					"text": "7",
+					"position": 2
+				},
+				{
+					"id": "RM073",
+					"text": "6",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM08",
+			"text": "En un Centro Comercial una computadora se vende a S/ 1200, con un descuento del 30% ¿En cuánto se vendió el equipo después del descuento?",
+			"position": 8,
+			"choises": [
+				{
+					"id": "RM080",
+					"text": "840",
+					"position": 0
+				},
+				{
+					"id": "RM081",
+					"text": "720",
+					"position": 1
+				},
+				{
+					"id": "RM082",
+					"text": "650",
+					"position": 2
+				},
+				{
+					"id": "RM083",
+					"text": "980",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM09",
+			"text": "El precio de un TV LG 32” cuesta S/ 600, en el supermercado Plaza Vea lo ofertan con un descuento del 20%, y si tiene tarjeta oh! le hacen un descuento adicional de 20% sobre el precio ya rebajado. ¿Cuál es el precio de la TV luego de los descuentos?",
+			"position": 9,
+			"choises": [
+				{
+					"id": "RM090",
+					"text": "384",
+					"position": 0
+				},
+				{
+					"id": "RM091",
+					"text": "360",
+					"position": 1
+				},
+				{
+					"id": "RM092",
+					"text": "240",
+					"position": 2
+				},
+				{
+					"id": "RM093",
+					"text": "420",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM10",
+			"text": "Jaime hace un préstamo de S/. 5,000.00 soles por un año, al final devolvió S/. 5,600.00 soles. ¿Cuánto es el interés cobrado por el préstamo?",
+			"position": 10,
+			"choises": [
+				{
+					"id": "RM100",
+					"text": "12%",
+					"position": 0
+				},
+				{
+					"id": "RM101",
+					"text": "10%",
+					"position": 1
+				},
+				{
+					"id": "RM102",
+					"text": "13%",
+					"position": 2
+				},
+				{
+					"id": "RM103",
+					"text": "11%",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM11",
+			"text": "La Suma de 2 números consecutivos es 41. Calcula el mayor de ellos.",
+			"position": 11,
+			"choises": [
+				{
+					"id": "RM110",
+					"text": "21",
+					"position": 0
+				},
+				{
+					"id": "RM111",
+					"text": "18",
+					"position": 1
+				},
+				{
+					"id": "RM112",
+					"text": "28",
+					"position": 2
+				},
+				{
+					"id": "RM113",
+					"text": "25",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM12",
+			"text": "Compré 50 libros, vendí 20 en $60 perdiendo $2 en cada uno y 20 ganando $1 en cada uno. ¿A cómo debe vender los libros restantes para no ganar ni perder?",
+			"position": 12,
+			"choises": [
+				{
+					"id": "RM120",
+					"text": "7",
+					"position": 0
+				},
+				{
+					"id": "RM121",
+					"text": "9",
+					"position": 1
+				},
+				{
+					"id": "RM122",
+					"text": "8",
+					"position": 2
+				},
+				{
+					"id": "RM123",
+					"text": "10",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM13",
+			"text": "En una unidad educativa trabajan 42 profesores, sí se sabe que en la primaria hay 18 profesores menos que en la secundaria. ¿Cuántos profesores hay en la primaria?",
+			"position": 13,
+			"choises": [
+				{
+					"id": "RM130",
+					"text": "12",
+					"position": 0
+				},
+				{
+					"id": "RM131",
+					"text": "10",
+					"position": 1
+				},
+				{
+					"id": "RM132",
+					"text": "6",
+					"position": 2
+				},
+				{
+					"id": "RM133",
+					"text": "8",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM14",
+			"text": "Si: a2 + b2 = 6, ab = 2. Calcular: a + b.",
+			"position": 14,
+			"choises": [
+				{
+					"id": "RM140",
+					"text": "",
+					"position": 0
+				},
+				{
+					"id": "RM141",
+					"text": "",
+					"position": 1
+				},
+				{
+					"id": "RM142",
+					"text": "",
+					"position": 2
+				},
+				{
+					"id": "RM143",
+					"text": "",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "RM15",
+			"text": "Complete la tabla que muestra los valores para dos magnitudes A y B inversamente proporcionales. Determine: x + y",
+			"position": 15,
+			"choises": [
+				{
+					"id": "RM150",
+					"text": "5",
+					"position": 0
+				},
+				{
+					"id": "RM151",
+					"text": "3",
+					"position": 1
+				},
+				{
+					"id": "RM152",
+					"text": "7",
+					"position": 2
+				},
+				{
+					"id": "RM153",
+					"text": "6",
+					"position": 3
+				}
+			]
+		}
+	],
+	"THI": [
+		{
+			"id": "THI01",
+			"text": "Es una parte de la computadora cuyo nombre es Unidad Central de Proceso, además nos permite procesar los datos:",
+			"position": 1,
+			"choises": [
+				{
+					"id": "THI010",
+					"text": "CPU",
+					"position": 0
+				},
+				{
+					"id": "THI011",
+					"text": "Módem",
+					"position": 1
+				},
+				{
+					"id": "THI012",
+					"text": "Teclado",
+					"position": 2
+				},
+				{
+					"id": "THI013",
+					"text": "Mouse",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI02",
+			"text": "Este dispositivo sirve para digitalizar imágenes o texto.",
+			"position": 2,
+			"choises": [
+				{
+					"id": "THI020",
+					"text": "Escáner",
+					"position": 0
+				},
+				{
+					"id": "THI021",
+					"text": "Impresora",
+					"position": 1
+				},
+				{
+					"id": "THI022",
+					"text": "Audífonos",
+					"position": 2
+				},
+				{
+					"id": "THI023",
+					"text": "Mouse",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI03",
+			"text": "Es el software sobre el que funcionan las demás aplicaciones instaladas en una computadora y es el más importante de los programas.",
+			"position": 3,
+			"choises": [
+				{
+					"id": "THI030",
+					"text": "Sistema Operativo",
+					"position": 0
+				},
+				{
+					"id": "THI031",
+					"text": "Apps",
+					"position": 1
+				},
+				{
+					"id": "THI032",
+					"text": "Drivers",
+					"position": 2
+				},
+				{
+					"id": "THI033",
+					"text": "Licencias",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI04",
+			"text": "Es un conjunto de datos los cuales se almacenan en un determinado formato, se puede grabar en el disco duro de la computadora o en algún otro medio de almacenamiento.",
+			"position": 4,
+			"choises": [
+				{
+					"id": "THI040",
+					"text": "Archivo",
+					"position": 0
+				},
+				{
+					"id": "THI041",
+					"text": "Carpeta",
+					"position": 1
+				},
+				{
+					"id": "THI042",
+					"text": "Icono",
+					"position": 2
+				},
+				{
+					"id": "THI043",
+					"text": "Acceso Directo",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI05",
+			"text": "Cuál de las siguientes opciones corresponden a tipos de Sistemas Operativos Existentes en el mercado.",
+			"position": 5,
+			"choises": [
+				{
+					"id": "THI050",
+					"text": "Windows, Mac Os, Linux",
+					"position": 0
+				},
+				{
+					"id": "THI051",
+					"text": "Office, Word, Excel",
+					"position": 1
+				},
+				{
+					"id": "THI052",
+					"text": "Mother Board, Mouse, Teclado",
+					"position": 2
+				},
+				{
+					"id": "THI053",
+					"text": "Internet, Servidor, Conexión FTP",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI06",
+			"text": "Es un enlace entre dos páginas web de un mismo sitio.",
+			"position": 6,
+			"choises": [
+				{
+					"id": "THI060",
+					"text": "hipervínculo",
+					"position": 0
+				},
+				{
+					"id": "THI061",
+					"text": "dirección de la web",
+					"position": 1
+				},
+				{
+					"id": "THI062",
+					"text": "http",
+					"position": 2
+				},
+				{
+					"id": "THI063",
+					"text": "https",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI07",
+			"text": "Es un navegador",
+			"position": 7,
+			"choises": [
+				{
+					"id": "THI070",
+					"text": "Google Chrome",
+					"position": 0
+				},
+				{
+					"id": "THI071",
+					"text": "Gozila Firefox",
+					"position": 1
+				},
+				{
+					"id": "THI072",
+					"text": "Ethernet explorer",
+					"position": 2
+				},
+				{
+					"id": "THI073",
+					"text": "Operación mini",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI08",
+			"text": "Es una red social para compartir fotos, estados, publicaciones y más.",
+			"position": 8,
+			"choises": [
+				{
+					"id": "THI080",
+					"text": "Facebook",
+					"position": 0
+				},
+				{
+					"id": "THI081",
+					"text": "Notebook",
+					"position": 1
+				},
+				{
+					"id": "THI082",
+					"text": "Nube electrónica",
+					"position": 2
+				},
+				{
+					"id": "THI083",
+					"text": "Prezi",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI09",
+			"text": "Es una red social que nos permite compartir videos de forma gratuita a nivel mundial.",
+			"position": 9,
+			"choises": [
+				{
+					"id": "THI090",
+					"text": "Youtube",
+					"position": 0
+				},
+				{
+					"id": "THI091",
+					"text": "Página web",
+					"position": 1
+				},
+				{
+					"id": "THI092",
+					"text": "Publicación",
+					"position": 2
+				},
+				{
+					"id": "THI093",
+					"text": "Estado",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI10",
+			"text": "Es una herramienta de dibujo que puedes utilizar para crear dibujos.",
+			"position": 10,
+			"choises": [
+				{
+					"id": "THI100",
+					"text": "Paint",
+					"position": 0
+				},
+				{
+					"id": "THI101",
+					"text": "Calculadora",
+					"position": 1
+				},
+				{
+					"id": "THI102",
+					"text": "Bloc de Notas",
+					"position": 2
+				},
+				{
+					"id": "THI103",
+					"text": "Recortes",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI11",
+			"text": "Es una herramienta que nos permite recortar secciones de pantalla o crear imágenes.",
+			"position": 11,
+			"choises": [
+				{
+					"id": "THI110",
+					"text": "Recortes",
+					"position": 0
+				},
+				{
+					"id": "THI111",
+					"text": "Paint",
+					"position": 1
+				},
+				{
+					"id": "THI112",
+					"text": "Calculadora",
+					"position": 2
+				},
+				{
+					"id": "THI113",
+					"text": "Bloc de Notas",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI12",
+			"text": "¿Qué programa de ofimática utilizamos para escribir cartas?",
+			"position": 12,
+			"choises": [
+				{
+					"id": "THI120",
+					"text": "Word",
+					"position": 0
+				},
+				{
+					"id": "THI121",
+					"text": "Excel",
+					"position": 1
+				},
+				{
+					"id": "THI122",
+					"text": "Power Point",
+					"position": 2
+				},
+				{
+					"id": "THI123",
+					"text": "Internet",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI13",
+			"text": "La barra de desplazamiento permite",
+			"position": 13,
+			"choises": [
+				{
+					"id": "THI130",
+					"text": "Desplazarnos dentro de la ventana para ver su contenido",
+					"position": 0
+				},
+				{
+					"id": "THI131",
+					"text": "Conocer la ubicación de las carpetas",
+					"position": 1
+				},
+				{
+					"id": "THI132",
+					"text": "Ver los nombres de los menús",
+					"position": 2
+				},
+				{
+					"id": "THI133",
+					"text": "Mostrar cual es nombre de la ventana",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI14",
+			"text": "Es un programa que permite manipular datos numéricos y alfanuméricos dispuestos en forma de tablas. Habitualmente es posible realizar cálculos complejos con fórmulas y funciones y dibujar distintos tipos de gráficas.",
+			"position": 14,
+			"choises": [
+				{
+					"id": "THI140",
+					"text": "Excel",
+					"position": 0
+				},
+				{
+					"id": "THI141",
+					"text": "Power Point",
+					"position": 1
+				},
+				{
+					"id": "THI142",
+					"text": "Internet",
+					"position": 2
+				},
+				{
+					"id": "THI143",
+					"text": "Word",
+					"position": 3
+				}
+			]
+		},
+		{
+			"id": "THI15",
+			"text": "Menciona que nombre lleva la intersección entre una fila y una columna.",
+			"position": 15,
+			"choises": [
+				{
+					"id": "THI150",
+					"text": "Celda",
+					"position": 0
+				},
+				{
+					"id": "THI151",
+					"text": "Cuadro",
+					"position": 1
+				},
+				{
+					"id": "THI152",
+					"text": "Casillero",
+					"position": 2
+				},
+				{
+					"id": "THI153",
+					"text": "Ubicación",
+					"position": 3
+				}
+			]
+		}
+	]
+}

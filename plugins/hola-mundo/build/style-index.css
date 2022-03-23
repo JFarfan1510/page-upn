@@ -1,0 +1,96 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap);
+/*!*******************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/style.scss (1) ***!
+  \*******************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-hola-mundo {
+  background-color: #21759b;
+  color: #fff;
+  padding: 15px;
+  margin: 5px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.title {
+  text-align: center;
+}
+
+.progreso {
+  padding: 50px 0 30px;
+}
+
+.progreso-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-siguiente {
+  background-color: #FDBA30 !important;
+  color: black !important;
+  border-radius: 0% !important;
+  font-weight: bold;
+  width: 35%;
+  display: block !important;
+  margin: auto;
+  padding: 10px !important;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.progreso-barra {
+  width: 100%;
+  height: 10px;
+  background-color: #B9CBDD;
+  border-radius: 5px;
+}
+.progreso-barra span {
+  display: block;
+  width: 0;
+  height: 100%;
+  background-color: #00B9FF;
+  border-radius: 5px;
+}
+
+.notice.error {
+  color: red;
+}
+.notice.success {
+  color: green;
+}
+
+.is-hidden {
+  display: none !important;
+}
+
+ul {
+  list-style: none !important;
+  padding-left: 15px !important;
+  padding: 15px 0 !important;
+}
+
+li {
+  padding: 0.8% 0 !important;
+}
+
+.pregunta {
+  padding: 30px 0;
+}
+
+.btn-grupo {
+  display: flex;
+}
+
+/*# sourceMappingURL=style-index.css.map*/

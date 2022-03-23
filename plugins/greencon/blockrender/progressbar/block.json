@@ -1,0 +1,9 @@
+{
+	"apiVersion": 2,
+	"name": "gutencon/progressbar",
+    "title": "Progress Bar",
+    "description": "For making progress bar",
+	"category":"gutencon-modules",
+    "icon": "leftright",
+	"textdomain": "gutencon"
+}

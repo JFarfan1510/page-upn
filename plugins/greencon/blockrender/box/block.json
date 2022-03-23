@@ -1,0 +1,10 @@
+{
+	"apiVersion": 1,
+	"name": "gutencon/box",
+    "title": "Info box",
+    "description": "Colored Info Boxes",
+	"category":"gutencon-modules",
+    "icon": "megaphone",
+	"textdomain": "gutencon",
+	"style": "boxfrontcss"
+}

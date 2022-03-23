@@ -1,0 +1,33 @@
+{
+  "name": "greencon",
+  "version": "1.0.0",
+  "description": "Greencon Marketing and Seo booster for Wordpress",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build",
+    "check-engines": "wp-scripts check-engines",
+    "packages-update": "wp-scripts packages-update",
+    "lint:js": "wp-scripts lint-js",
+    "lint:style": "wp-scripts lint-style"
+  },
+  "author": "Wpsoul",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.12.13",
+    "@wordpress/components": "^13.0.0",
+    "@wordpress/editor": "^9.26.0",
+    "@wordpress/scripts": "^18.0.0",
+    "gulp": "^3.9.1",
+    "gulp-zip": "^4.2.0",
+    "react-sortable-hoc": "^2.0.0"
+  },
+  "dependencies": {
+    "@wordpress/block-editor": "^3.11.0",
+    "@wordpress/blocks": "^6.25.2",
+    "debounce-promise": "^3.1.2",
+    "react-async-select": "^0.2.6",
+    "react-select": "^4.3.1",
+    "swiper": "^7.0.0"
+  }
+}
